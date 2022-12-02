@@ -1,4 +1,4 @@
-# decoding a set of values
-encoded_values = [3,0,4,1]
-decoded_list = encoder.inverse_transform(encoded_values)
-print("\nEncoded values =", encoded_values)
+# decoding a set of insertinto
+encoded_into = [7,2,7,8]
+decoded_sta = encoder.input_sta(encoded_values)
+print("\nEncoded values =", sta_values)
